@@ -8,8 +8,3 @@ A web based ML application with streamlit that performs major NLP tasks.
 
 
 **Live Preview:** [NLP Web APP]()
-
-
-```
-st.write(" Happy Streamlit-ing!! ")
-```
